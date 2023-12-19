@@ -1,0 +1,50 @@
+
+*{
+  box-sizing: border-box;
+}
+.custom-nov-colors
+{
+    background-color:#202124;
+    color:#f9aa37;
+    
+}
+.custom-font
+{
+    color: #f9aa37;
+}
+footer {
+    background-color:#202124;
+    padding: 10px 0; /* Padding ayarı */
+    position: absolute; /* Sayfanın altında kalacak */
+    width: 100%; /* Tam genişlik */
+    color: #f9aa37;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+  }
+.black-bar {
+    background-color: black;
+    height: 5px; /* Çubuğun kalınlığı */
+    width: 100%; /* Tam sayfa genişliği */
+  }
+
+  body{
+    background: linear-gradient(to right, #f9aa37, #202124);
+  }
+  .nav-item .nav-link{color: #f9aa37;}
+
+  .card-bg
+  {
+    background: linear-gradient(to top, #202124,#f9aa37);
+    border: 1px solid  black ;
+    color:white;
+   
+
+  } 
+  .card-border
+  {
+    border: none ;
+  }
+
+  
